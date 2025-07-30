@@ -28,10 +28,13 @@ Designed to showcase my skills, projects, and achievements as a B.Tech IT studen
 ---
 
 ## 📁 Folder Structure
+```
 portfolio/
-├── assets/              
+├── assets/
 │   └── profile pic.jpg
 ├── index.html
 ├── main.css
 ├── script.js
 └── README.md
+```
+
