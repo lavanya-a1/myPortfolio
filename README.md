@@ -28,8 +28,10 @@ Designed to showcase my skills, projects, and achievements as a B.Tech IT studen
 ---
 
 ## 📁 Folder Structure
-├── index.html # Main HTML file
-├── main.css # Custom styles
-├── scripts.js # Typing effect & JS animations
-├── assets/ # Images
-│ ├── profile pic.jpg
+portfolio/
+├── assets/              
+│   └── profile pic.jpg
+├── index.html
+├── main.css
+├── script.js
+└── README.md
